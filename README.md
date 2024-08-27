@@ -60,4 +60,4 @@
     ```
     and in your browser navigate to http://127.0.0.1:8000/swagger/
 
-![img.png](img.png)
+![img.png](swagger.png)

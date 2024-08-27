@@ -1,0 +1,45 @@
+# Python Bytecode
+__pycache__/
+*.py[cod]
+
+# Virtual Environment
+venv/
+env/
+.venv/
+.env/
+env.bak/
+venv.bak/
+
+# Django specific files
+*.log
+*.sqlite3
+db.sqlite3
+media/
+staticfiles/
+static/
+
+# IDE configuration files
+.idea/
+.vscode/
+*.sublime-project
+*.sublime-workspace
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+
+# Local environment configuration
+.local/
+*.local
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Egg files
+*.egg
+.parts/
